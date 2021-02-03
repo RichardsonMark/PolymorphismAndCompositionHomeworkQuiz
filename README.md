@@ -56,7 +56,7 @@ public class Desktop implements IConnect {
 - Composition is when objects are used/put together to make up another object to get the functionality needed.
 
 7. When would you use composition? Provide a simple example in Java.
-- Below is an example of an Electric car from our lab today:
+- When you want to have an object which is made up of other objects/'has' other objects in it. Below is an example of an Electric car from our lab today:
 
 ```java
 
