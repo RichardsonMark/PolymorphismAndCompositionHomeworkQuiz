@@ -30,7 +30,7 @@ public class Desktop implements IConnect {
 ```
 
 3. What can we use to implement polymorphism in Java?
-- You can use interfaces and abstract classes.
+- You can use Interfaces, Abstract classes and Inheritance.
 
 4. How many 'forms' can an object take when using polymorphism?
 - As many as is needed.
